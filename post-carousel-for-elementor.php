@@ -4,8 +4,7 @@
  * Description: Post Carousel plugin for Elementor with 40+ responsive and modern Blog Post designs.
  * Plugin URI:  https://bwdelementoraddons.com/post-carousel/
  * Version:     1.0.0
- * Author:      Best WP Developer
- * Author URI:  https://bestwpdeveloper.com/
+ * Author:      Nazmul Huda
  * Text Domain: post-carousel-for-elementor
  * Requires Plugins: elementor
  * License: GPLv2 or later

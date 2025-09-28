@@ -1,6 +1,5 @@
 === Post Carousel for Elementor ===
-Contributors: ratulhasan, wpexperttariqul, bestwpdeveloper  
-Donate link: https://bestwpdeveloper.com/  
+Contributors: nazmulhudabest  
 Tags: post carousel, blog carousel, post slider, blog slider, elementor carousel 
 Requires at least: 5.0
 Tested up to: 6.8
@@ -79,6 +78,3 @@ Visit [here](https://codecanyon.net/item/creative-post-carousel-addon-for-elemen
 = 1.0.0 =
 Initial release with 2 free styles. Upgrade to the premium version for full access to all 40+ designs and features.
 
-== Credits ==
-
-Developed with ❤️ by the team at [Best WP Developer](https://bestwpdeveloper.com/)
