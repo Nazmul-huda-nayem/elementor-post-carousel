@@ -1,0 +1,140 @@
+
+
+    /* lg devices */
+    @media (min-width: 992px) and (max-width: 1199px){
+
+        .pcfe_blogPost_style1 .pcfe_blog_bottom_part {
+            padding-block-start: 30px;
+            padding-inline: 20px;
+            padding-block-end: 45px;
+        }
+        .pcfe_blogPost_style4 .pcfe_blog_bottom_part,
+        .pcfe_blogPost_style10 .pcfe_blog_bottom_part,
+        .pcfe_blogPost_style8 .pcfe_blog_bottom_part,
+        .pcfe_blogPost_style11 .pcfe_blog_bottom_part,
+        .pcfe_blogPost_style12 .pcfe_blog_box,
+        .pcfe_blogPost_style14 .pcfe_blog_bottom_part,
+        .pcfe_blogPost_style19 .pcfe_blog_bottom_part {
+            padding-block: 25px;
+            padding-inline: 20px;
+        }
+        .pcfe_blogPost_style9 .pcfe_blog_bottom_part {
+            padding-block: 30px;
+            padding-inline: 20px;
+        }
+        .pcfe_blogPost_17 .pcfe_blog_bottom_part {
+            padding-block-start: 75px;
+            padding-inline: 20px;
+            padding-block-end: 30px;
+        }
+        .pcfe_blogPost_style19 .pcfe_author_info {
+            flex-wrap: wrap;
+            flex-direction: row;
+        }
+        .pcfe_blogPost_style19 .pcfe_author-img {
+            margin-block-end: 10px;
+        }
+
+    }
+    /* xs devices */
+    @media (max-width: 767px){
+
+        .pcfe_blogPost_style1 .pcfe_blog_bottom_part {
+            padding-block-start: 30px;
+            padding-inline: 20px;
+            padding-block-end: 45px;
+        }
+        .pcfe_blogPost_style12 .pcfe_blog_box,
+        .pcfe_blogPost_style15 .pcfe_blog_box,
+        .pcfe_blogPost_style16 .pcfe_blog_box,
+        .pcfe_blogPost_style4 .pcfe_blog_bottom_part,
+        .pcfe_blogPost_style7 .pcfe_blog_bottom_part,
+        .pcfe_blogPost_style8 .pcfe_blog_bottom_part,
+        .pcfe_blogPost_style9 .pcfe_blog_bottom_part,
+        .pcfe_blogPost_style10 .pcfe_blog_bottom_part,
+        .pcfe_blogPost_style11 .pcfe_blog_bottom_part,
+        .pcfe_blogPost_style14 .pcfe_blog_bottom_part,
+        .pcfe_blogPost_style19 .pcfe_blog_bottom_part,
+        .pcfe_blogPost_list_24 .pcfe_blog_bottom_part {
+            padding-block: 25px;
+            padding-inline: 15px;
+        }
+        .pcfe_blogPost_style13 .pcfe_blog_bottom_part {
+            padding-block-start: 65px;
+            padding-inline: 15px;
+            padding-block-end: 30px;
+        }
+        .pcfe_blogPost_17 .pcfe_blog_bottom_part {
+            padding-block-start: 75px;
+            padding-inline: 15px;
+            padding-block-end: 25px;
+        }
+        .pcfe_blogPost_style18 .pcfe_blog_bottom_part {
+            padding-block-start: 25px;
+            padding-inline: 15px;
+            padding-block-end: 40px;
+        }
+        .pcfe_blogPost_style19 .pcfe_author_info {
+            flex-wrap: wrap;
+            flex-direction: row;
+        }
+        .pcfe_blogPost_style19 .pcfe_author-img {
+            margin-block-end: 10px;
+        }
+        .pcfe_blogPost_style3 .pcfe_blog_box .pcfe_overlay_content{
+            display: none;
+        }
+
+        /* list-style--------------- */
+
+        .pcfe_blogPost_1.pcfe_blogPost_list_20 .pcfe_blog_box,
+        .pcfe_blogPost_1.pcfe_blogPost_list_21 .pcfe_blog_box,
+        .pcfe_blogPost_list_22 .pcfe_blog_box,
+        .pcfe_blogPost_list_23 .pcfe_blog_box,
+        .pcfe_blogPost_list_24 .pcfe_blog_box,
+        .pcfe_blogPost_list_25 .pcfe_blog_box,
+        .pcfe_blogPost_list_26 .pcfe_blog_box,
+        .pcfe_blogPost_list_27 .pcfe_blog_box,
+        .pcfe_blogPost_list_28 .pcfe_blog_box,
+        .pcfe_blogPost_list_29 .pcfe_blog_box,
+        .pcfe_blogPost_list_30 .pcfe_blog_box,
+        .pcfe_blogPost_list_31 .pcfe_blog_box,
+        .pcfe_blogPost_list_32 .pcfe_blog_box {
+            flex-direction: row;
+            flex-wrap: wrap;
+        }
+        .pcfe_blogPost_list_22 .pcfe_blog_bottom_part {
+            padding-block: 25px;
+            padding-inline: 15px;
+        }
+        .pcfe_blogPost_list_31 .pcfe_blog_bottom_part {
+            padding-block: 25px;
+            padding-inline: 15px;
+        }
+
+        .pcfe_blogPost_list_32.pcfe_blogPost_list_40 .pcfe_blog_image {
+            inline-size: 100%;
+            border-radius: 10px;
+            margin-inline-end: 0;
+            margin-block-end: 20px;
+        }
+        .pcfe_blogPost_list_40 .pcfe_blog_box {
+            padding-block: 20px;
+            padding-inline: 20px;
+        }
+
+    
+
+        .pcfe_blogPost_list_20 .pcfe_blog_image, .pcfe_blogPost_list_21 .pcfe_blog_image, .pcfe_blogPost_list_22 .pcfe_blog_image, .pcfe_blogPost_list_23 .pcfe_blog_image, .pcfe_blogPost_list_24 .pcfe_blog_image, .pcfe_blogPost_list_25 .pcfe_blog_image, .pcfe_blogPost_list_26 .pcfe_blog_image, .pcfe_blogPost_list_27 .pcfe_blog_image, .pcfe_blogPost_list_28 .pcfe_blog_image, .pcfe_blogPost_list_29 .pcfe_blog_image, .pcfe_blogPost_list_30 .pcfe_blog_image, .pcfe_blogPost_list_31 .pcfe_blog_image,
+        .pcfe_blogPost_list_32 .pcfe_blog_image,
+        .pcfe_blogPost_list_35 .pcfe-blogextra-img {
+            block-size: 250px;
+        }
+        .pcfe_blogPost_list_36 .pcfe_blog_image,
+        .pcfe_blogPost_list_37 .pcfe_blog_image,
+        .pcfe_blogPost_list_38 .pcfe_blog_image {
+            block-size: 100%;
+        }
+        
+    }
+

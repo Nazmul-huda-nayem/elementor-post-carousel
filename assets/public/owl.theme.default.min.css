@@ -1,0 +1,6 @@
+/**
+ * Owl Carousel v2.3.4
+ * Copyright 2013-2018 David Deutsch
+ * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE
+ */
+.pcfe-owl-theme .pcfe-owl-dots,.pcfe-owl-theme .pcfe-owl-nav{text-align:center;-webkit-tap-highlight-color:transparent}.pcfe-owl-theme .pcfe-owl-nav{margin-top:10px}.pcfe-owl-theme .pcfe-owl-nav [class*=owl-]{color:#FFF;font-size:14px;margin:5px;padding:4px 7px;background:#D6D6D6;display:inline-block;cursor:pointer;border-radius:3px}.pcfe-owl-theme .pcfe-owl-nav [class*=owl-]:hover{background:#869791;color:#FFF;text-decoration:none}.pcfe-owl-theme .pcfe-owl-nav .disabled{opacity:.5;cursor:default}.pcfe-owl-theme .pcfe-owl-nav.disabled+.pcfe-owl-dots{margin-top:10px}.pcfe-owl-theme .pcfe-owl-dots .pcfe-owl-dot{display:inline-block;zoom:1}.pcfe-owl-theme .pcfe-owl-dots .pcfe-owl-dot span{width:10px;height:10px;margin:5px 7px;background:#D6D6D6;display:block;-webkit-backface-visibility:visible;transition:opacity .2s ease;border-radius:30px}.pcfe-owl-theme .pcfe-owl-dots .pcfe-owl-dot.active span,.pcfe-owl-theme .pcfe-owl-dots .pcfe-owl-dot:hover span{background:#869791}

@@ -1,0 +1,13 @@
+.pcfe-blogpost-icon::after {
+    content: 'bwd' !important;
+    position: absolute !important;
+    right: 7px;
+    top: 7px;
+    color: #fffefe;
+    font-family: initial;
+    background: linear-gradient(297.24deg,#050335 8.2%,#1D0BCE 91.8%);
+    border-radius: 3px;
+    font-size: 11px;
+    padding: 2px 5px;
+}
+  
