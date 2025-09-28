@@ -53,8 +53,6 @@ No. The plugin offers **2 styles completely free**. The remaining **40+ modern s
 = Is it responsive? =  
 Absolutely. All carousel designs are fully responsive and mobile-ready.
 
-= Where can I get the premium version? =  
-Visit [here](https://codecanyon.net/item/creative-post-carousel-addon-for-elementor/41061763) to get access to the premium version and explore all styles.
 
 == Screenshots ==
 
